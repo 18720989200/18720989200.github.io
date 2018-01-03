@@ -3,6 +3,43 @@
   
     
     <entry>
+      <title><![CDATA[腾讯云短信平台调研]]></title>
+      <url>/2018/01/03/%E8%85%BE%E8%AE%AF%E4%BA%91%E7%9F%AD%E4%BF%A1%E5%B9%B3%E5%8F%B0%E8%B0%83%E7%A0%94/</url>
+      <content type="html"><![CDATA[<h2 id="腾讯云短信平台优势"><a href="#腾讯云短信平台优势" class="headerlink" title="腾讯云短信平台优势"></a>腾讯云短信平台优势</h2><p>腾讯云短信主要具备良好的套餐包管理配置、通知与告警、状态统计分析等功能，在性能及安全方面都较为完善</p>
+<h4 id="套餐包价格"><a href="#套餐包价格" class="headerlink" title="套餐包价格"></a>套餐包价格</h4><p>短信价格方面，采用预付费方式，按发送条数计算，提供短信套餐包，并每月赠送100条短信套餐包</p>
+<p><img src="/2018/01/03/腾讯云短信平台调研/C:/myBlog\source\_posts\腾讯云短信平台调研\价格详情.jpg" alt="价格详情"></p>
+<h4 id="套餐包管理配置"><a href="#套餐包管理配置" class="headerlink" title="套餐包管理配置"></a>套餐包管理配置</h4><p>可以自定义进行短信发送频率限制、超量提醒设置、事件回调设置</p>
+<p><img src="/2018/01/03/腾讯云短信平台调研/C:/myBlog\source\_posts\腾讯云短信平台调研\基础配置.jpg" alt="基础配置"></p>
+<h4 id="告警设置"><a href="#告警设置" class="headerlink" title="告警设置"></a>告警设置</h4><p>可以自定义添加5人以内的告警人，进行频率限制、超量提醒、审核通知、告警通知等一系列异常情况监控，实时通过手机和邮箱了解相关情况</p>
+<p><img src="/2018/01/03/腾讯云短信平台调研/C:/myBlog\source\_posts\腾讯云短信平台调研\通知与告警.jpg" alt="通知与告警"></p>
+<h4 id="整体情况"><a href="#整体情况" class="headerlink" title="整体情况"></a>整体情况</h4><p>可以清晰的了解套餐包使用情况</p>
+<p><img src="/2018/01/03/腾讯云短信平台调研/C:/myBlog\source\_posts\腾讯云短信平台调研\套餐包.jpg" alt="套餐包"></p>
+<h4 id="消耗趋势"><a href="#消耗趋势" class="headerlink" title="消耗趋势"></a>消耗趋势</h4><p>可以自助查询套餐包使用情况，了解一段时间内的使用趋势情况</p>
+<p><img src="/2018/01/03/腾讯云短信平台调研/C:/myBlog\source\_posts\腾讯云短信平台调研\套餐包消耗趋势.jpg" alt="套餐包消耗趋势"></p>
+<h4 id="整体使用分析"><a href="#整体使用分析" class="headerlink" title="整体使用分析"></a>整体使用分析</h4><p>可以显示当月总发送量、成功发送量及发送成功率，了解套餐包当月整体概括</p>
+<p><img src="/2018/01/03/腾讯云短信平台调研/C:/myBlog\source\_posts\腾讯云短信平台调研\概况.jpg" alt="概况"></p>
+<h4 id="使用详情统计"><a href="#使用详情统计" class="headerlink" title="使用详情统计"></a>使用详情统计</h4><p>自定义查询一段时间内当前套餐包整体情况，提供使用趋势图表分析说明，并以表格形式罗列具体使用情况</p>
+<p><img src="/2018/01/03/腾讯云短信平台调研/C:/myBlog\source\_posts\腾讯云短信平台调研\数据总览.jpg" alt="数据总览"></p>
+<h4 id="短信记录"><a href="#短信记录" class="headerlink" title="短信记录"></a>短信记录</h4><p>可以自定义查询短信发生内容及发送状态，方便了解短信成功/失败原因</p>
+<p><img src="/2018/01/03/腾讯云短信平台调研/C:/myBlog\source\_posts\腾讯云短信平台调研\短信记录.jpg" alt="短信记录"></p>
+<h4 id="失败分析"><a href="#失败分析" class="headerlink" title="失败分析"></a>失败分析</h4><p>可以自定义查询某时间段内短信发送失败的原因</p>
+<p><img src="/2018/01/03/腾讯云短信平台调研/C:/myBlog\source\_posts\腾讯云短信平台调研\失败原因.jpg" alt="失败原因"></p>
+<h4 id="回执分析"><a href="#回执分析" class="headerlink" title="回执分析"></a>回执分析</h4><p>可以在这里了解是否出现短信未发送情况</p>
+<p><img src="/2018/01/03/腾讯云短信平台调研/C:/myBlog\source\_posts\腾讯云短信平台调研\回执分析.jpg" alt="回执分析"></p>
+<h4 id="完善的错误码"><a href="#完善的错误码" class="headerlink" title="完善的错误码"></a>完善的错误码</h4><p>具备较为完善的错误码提示</p>
+<p><img src="/2018/01/03/腾讯云短信平台调研/C:/myBlog\source\_posts\腾讯云短信平台调研\短信发送错误码.jpg" alt="短信发送错误码"></p>
+<p><img src="/2018/01/03/腾讯云短信平台调研/C:/myBlog\source\_posts\腾讯云短信平台调研\状态回执错误码.jpg" alt="短信发送错误码"></p>
+<h3 id="腾讯云短信平台需要注意事项"><a href="#腾讯云短信平台需要注意事项" class="headerlink" title="腾讯云短信平台需要注意事项"></a>腾讯云短信平台需要注意事项</h3><h4 id="费用问题"><a href="#费用问题" class="headerlink" title="费用问题"></a>费用问题</h4><p>其采用预付费方式，需先购买套餐包才可使用，并且套餐包具有时间限制（2年内），正常情况下，购买套餐包后无法退订/退款。</p>
+<p><img src="/2018/01/03/腾讯云短信平台调研/C:/myBlog\source\_posts\腾讯云短信平台调研\费用问题.jpg" alt="费用问题"></p>
+<h4 id="发送内容限制"><a href="#发送内容限制" class="headerlink" title="发送内容限制"></a>发送内容限制</h4><p>短信套餐包需通过审核才开使用，并且有一定限制，如下：</p>
+<p><img src="/2018/01/03/腾讯云短信平台调研/C:/myBlog\source\_posts\腾讯云短信平台调研\审核标准.jpg" alt="审核标准"></p>
+<h3 id="整体分析"><a href="#整体分析" class="headerlink" title="整体分析"></a>整体分析</h3><p>腾讯云短信在安全、性能、告警及API文档等方面较为完善/出色，一般短信在1-3秒内获取，使用/开发起来较为便捷；但需注意购买套餐后一般无法退款，且具有2年时限性，另短信内容会有一定限制，建议通过短信模板审核后购买套餐包</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[微信小程序开发流程]]></title>
       <url>/2017/12/06/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E6%B5%81%E7%A8%8B/</url>
       <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><ul>
